@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-15T10:59:14.893811Z",
+  "updated_at": "2026-06-15T20:56:23.194966Z",
   "licenses": [
     {
       "id": 1,
@@ -58,6 +58,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-15T10:59:14.892617Z"
+    },
+    {
+      "id": 5,
+      "key_plain": "B4YB3-CRRPJ-KWMP6-Z7WHT-HR782",
+      "key_hash": "932508439bee5f555311f5c70eea6a47c9b2e3e7f494b1a9b40bfbafc2d157e8",
+      "fingerprint_hash": "d8d6b0dea1bd854bb577e58abbab9ed63ccdb6f2c0cc4acfefd4a3c372242040",
+      "label": "",
+      "user_name": "kahral",
+      "user_email": "",
+      "activation_date": "2026-06-16",
+      "expiry": "2026-07-08",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-15T20:56:23.194536Z"
     }
   ]
 }
