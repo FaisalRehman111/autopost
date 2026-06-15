@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-15T07:47:57.161200Z",
+  "updated_at": "2026-06-15T10:59:14.893811Z",
   "licenses": [
     {
       "id": 1,
@@ -44,6 +44,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-15T07:47:57.161200Z"
+    },
+    {
+      "id": 4,
+      "key_plain": "QYER8-VTN23-HR7MD-6AUDX-IUWZ6",
+      "key_hash": "5adbfbf09d3a9e9073843553da5dae34babe54f6f1d828be1a03a96fb2ce15f1",
+      "fingerprint_hash": "b958aa7113578524aa3172b8868fdea868d07436013c86e877b4bf11b2cfdb16",
+      "label": "",
+      "user_name": "noman kharal 1",
+      "user_email": "week",
+      "activation_date": "2026-06-15",
+      "expiry": "2026-06-20",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-15T10:59:14.892617Z"
     }
   ]
 }
