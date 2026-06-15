@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-15T01:20:39.714005Z",
+  "updated_at": "2026-06-15T04:33:27.641297Z",
   "licenses": [
     {
       "id": 1,
@@ -16,6 +16,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-15T01:20:39.714005Z"
+    },
+    {
+      "id": 2,
+      "key_plain": "DKUU-FLU2-E4LL-TBV3",
+      "key_hash": "c1683a520df621ac9f90f88ef5d673ecf22a7efc72f79513d5fbf5fc1bae1036",
+      "fingerprint_hash": "78882046f7bd4d09dbd0b9c8e646c91c2ecc2ffc175ecc5a98cf0fc3c169ae9c",
+      "label": "",
+      "user_name": "FSRTY",
+      "user_email": "",
+      "activation_date": "2026-06-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-15T04:33:27.641297Z"
     }
   ]
 }
