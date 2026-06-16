@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-15T20:56:23.194966Z",
+  "updated_at": "2026-06-16T04:05:54.653864Z",
   "licenses": [
     {
       "id": 1,
@@ -72,6 +72,21 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-15T20:56:23.194536Z"
+    },
+    {
+      "id": 6,
+      "key_plain": "KVNWX-0BWAN-C5T2W-UU310-BXRUF",
+      "key_hash": "89570ad5ec87c45a80fd2d5e455f3d8459be101e83515e3a215e4dad736b794d",
+      "fingerprint_hash": "fad263b96768d9b4d882061ca7224f400d0d17ab9428663a70ad23cb5efaade7",
+      "label": "",
+      "user_name": "hafiz zeeshan",
+      "user_email": "",
+      "activation_date": "2026-06-16",
+      "expiry": "2026-06-20",
+      "max_devices": 1,
+      "status": "active",
+      "plan": "starter",
+      "created_at": "2026-06-16T04:05:54.653199Z"
     }
   ]
 }
