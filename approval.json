@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-16T06:28:56.909014Z",
+  "updated_at": "2026-06-17T10:12:26.313415Z",
   "licenses": [
     {
       "id": 1,
@@ -102,6 +102,21 @@
       "status": "active",
       "plan": "starter",
       "created_at": "2026-06-16T06:28:56.908831Z"
+    },
+    {
+      "id": 8,
+      "key_plain": "G5AFS-JYJMZ-VH7CH-ESRS8-HXPHD",
+      "key_hash": "96ca9d2a2d92c9b653cfcee88b29c5cddf170d9b271725828548baca1544d67f",
+      "fingerprint_hash": "c84ec56e659c8f836fb6935e11beb37782a267d28aeccf690817d1da066c91e2",
+      "label": "",
+      "user_name": "ahsan raza bhatti",
+      "user_email": "1m 100 pg",
+      "activation_date": "2026-06-17",
+      "expiry": "2026-07-17",
+      "max_devices": 1,
+      "status": "active",
+      "plan": "pro",
+      "created_at": "2026-06-17T10:12:26.312473Z"
     }
   ]
 }
