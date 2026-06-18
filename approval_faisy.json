@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "schema": "faisy-video-editor-approvals-v1",
+  "updated_at": "2026-06-18T14:46:12.645909Z",
+  "licenses": [
+    {
+      "id": 1,
+      "key_plain": "CY47-QNC8-MNAG-S83U",
+      "key_hash": "6be7f5b7f0aa166d4eaa2607008a286274cf0bea1fadb543e209e79a667f2a7c",
+      "fingerprint_hash": "d0a846f65839570b984965e28bdbd247db3c5772ba7e4f2679cf4cb6e86527eb",
+      "user_name": "fsdy",
+      "label": "pc1",
+      "status": "active",
+      "issued_at": "2026-06-18T14:46:12.645909Z",
+      "expiry": null,
+      "max_devices": 1
+    }
+  ]
+}
