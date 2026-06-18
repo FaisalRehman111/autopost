@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-17T10:12:26.313415Z",
+  "updated_at": "2026-06-18T13:59:03.316221Z",
   "licenses": [
     {
       "id": 1,
@@ -117,6 +117,21 @@
       "status": "active",
       "plan": "pro",
       "created_at": "2026-06-17T10:12:26.312473Z"
+    },
+    {
+      "id": 9,
+      "key_plain": "TVGK6-FW6SO-KLESS-346D0-JN4F5",
+      "key_hash": "28440c51ec83768152691be74b7bd84bd58649379ca76fa50021a5da888ce01d",
+      "fingerprint_hash": "ba61afd3969f45c249b626469c6ca06b9fbe8dc25d5e7c82b4fa0d5d7f6ff7e0",
+      "label": "weekend",
+      "user_name": "irfan bhatti",
+      "user_email": "one",
+      "activation_date": "2026-06-18",
+      "expiry": "2026-06-20",
+      "max_devices": 1,
+      "status": "active",
+      "plan": "starter",
+      "created_at": "2026-06-18T13:59:03.315929Z"
     }
   ]
 }
