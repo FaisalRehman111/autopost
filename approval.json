@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-18T13:59:03.316221Z",
+  "updated_at": "2026-06-19T10:09:26.974739Z",
   "licenses": [
     {
       "id": 1,
@@ -132,6 +132,21 @@
       "status": "active",
       "plan": "starter",
       "created_at": "2026-06-18T13:59:03.315929Z"
+    },
+    {
+      "id": 10,
+      "key_plain": "SZQB3-9BXCX-QPJ5S-54TPZ-JIG37",
+      "key_hash": "08f0239e8a8fc164dbae7b5ba71d8228f8600af276aba0993c731f98d474c37f",
+      "fingerprint_hash": "1e9f1f58b19413d8109046cd0d113051916223533994f0eacfaec84b69c028d8",
+      "label": "",
+      "user_name": "ALLAH KNOW",
+      "user_email": "2 DIN",
+      "activation_date": "2026-06-19",
+      "expiry": "2026-06-21",
+      "max_devices": 1,
+      "status": "active",
+      "plan": "starter",
+      "created_at": "2026-06-19T10:09:26.974274Z"
     }
   ]
 }
