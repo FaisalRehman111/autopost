@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-06-19T10:09:26.974739Z",
+  "updated_at": "2026-06-23T14:31:08.173562Z",
   "licenses": [
     {
       "id": 1,
@@ -147,6 +147,21 @@
       "status": "active",
       "plan": "starter",
       "created_at": "2026-06-19T10:09:26.974274Z"
+    },
+    {
+      "id": 11,
+      "key_plain": "RBASB-0I3HH-7Z74D-W26NP-F6DY7",
+      "key_hash": "82860243674e25ec5c31a918a5ffaa2a86b7b89c5072e061b54af7498bb737b1",
+      "fingerprint_hash": "332e0a69f07d365c98bdd1b81e73c8956ccdcbaa824b0c7c243e2280e19ab9c0",
+      "label": "",
+      "user_name": "hhoptest",
+      "user_email": "",
+      "activation_date": "2026-06-23",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "plan": "unlimited",
+      "created_at": "2026-06-23T14:31:08.172643Z"
     }
   ]
 }
