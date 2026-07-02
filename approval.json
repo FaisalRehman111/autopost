@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-07-02T07:42:36.073676Z",
+  "updated_at": "2026-07-02T07:43:09.831469Z",
   "licenses": [
     {
       "id": 1,
@@ -72,21 +72,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-15T20:56:23.194536Z"
-    },
-    {
-      "id": 7,
-      "key_plain": "11PXC-F65QH-I2T8S-R1U0S-HLQYY",
-      "key_hash": "a79e2bff24615a120fe45ba490b88f24faad9dd836e3f205d0005becc73f56ce",
-      "fingerprint_hash": "049fc4310f0a8cd7178d6ce3a1ff7c6c2cd692e8cacb4b5350019ebc17260a4a",
-      "label": "",
-      "user_name": "1 m paid",
-      "user_email": "halfwar",
-      "activation_date": "2026-06-16",
-      "expiry": "2026-07-16",
-      "max_devices": 1,
-      "status": "active",
-      "plan": "starter",
-      "created_at": "2026-06-16T06:28:56.908831Z"
     },
     {
       "id": 8,
