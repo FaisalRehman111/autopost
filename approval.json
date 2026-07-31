@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-07-20T09:08:40.286914Z",
+  "updated_at": "2026-07-31T15:44:01.005793Z",
   "licenses": [
     {
       "id": 1,
@@ -147,6 +147,21 @@
       "status": "active",
       "plan": "starter",
       "created_at": "2026-07-20T09:08:40.286511Z"
+    },
+    {
+      "id": 13,
+      "key_plain": "P6Z44-HEP8U-88Z74-TBRPX-0Q08P",
+      "key_hash": "c746a3461d01bc9f8f94f2711557a9db913206b65468d27046c9b207274d2758",
+      "fingerprint_hash": "bd15809f09f6ddf4e58be471a9080cf12a951ce5e4bce848de24281d26d8b70d",
+      "label": "",
+      "user_name": "bhatti frnds",
+      "user_email": "",
+      "activation_date": "2026-07-31",
+      "expiry": "2026-09-01",
+      "max_devices": 1,
+      "status": "active",
+      "plan": "pro",
+      "created_at": "2026-07-31T15:44:01.005363Z"
     }
   ]
 }
