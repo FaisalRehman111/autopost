@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-07-31T15:44:01.005793Z",
+  "updated_at": "2026-08-01T07:43:23.269242Z",
   "licenses": [
     {
       "id": 1,
@@ -162,6 +162,21 @@
       "status": "active",
       "plan": "pro",
       "created_at": "2026-07-31T15:44:01.005363Z"
+    },
+    {
+      "id": 14,
+      "key_plain": "HLKU1-JHPBZ-6ZN3K-VAJ2K-WTZA0",
+      "key_hash": "83e940335a783ef259e90c40c2427cec8dbaed789c912e7bb0d33c799663f741",
+      "fingerprint_hash": "a309374e197aa88db0534bd7c8c70efb039f1c251ef6be98446a64f0521d107d",
+      "label": "",
+      "user_name": "buttpatti",
+      "user_email": "",
+      "activation_date": "2026-08-01",
+      "expiry": "2026-09-01",
+      "max_devices": 1,
+      "status": "active",
+      "plan": "pro",
+      "created_at": "2026-08-01T07:43:23.269022Z"
     }
   ]
 }
