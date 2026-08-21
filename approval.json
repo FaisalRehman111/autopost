@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "auto-poster-pro-approvals-v1",
-  "updated_at": "2026-08-01T07:43:23.269242Z",
+  "updated_at": "2026-08-21T00:40:20.370720Z",
   "licenses": [
     {
       "id": 1,
@@ -177,6 +177,21 @@
       "status": "active",
       "plan": "pro",
       "created_at": "2026-08-01T07:43:23.269022Z"
+    },
+    {
+      "id": 15,
+      "key_plain": "4JFJP-2MBRO-6RLZN-PA55S-8ZYC6",
+      "key_hash": "f3059672e8470c6a68d79045cfe0a8f42e157777664c194aeb772f523bda3848",
+      "fingerprint_hash": "d0d77d06fb0ca7492a582a44ee29cb22069bcb0596711d14a6caa2aae522b241",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-08-21",
+      "expiry": "2026-08-23",
+      "max_devices": 1,
+      "status": "active",
+      "plan": "starter",
+      "created_at": "2026-08-21T00:40:20.370159Z"
     }
   ]
 }
